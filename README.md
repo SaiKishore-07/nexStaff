@@ -116,23 +116,6 @@ npm run dev
 - ✅ Update Employee
 - ✅ Delete Employee
 
----
-
-## 🎯 Future Improvements
-
-- Authentication
-- Employee Profile Images
-- Backend Integration
-- REST API
-- Database (MongoDB/MySQL)
-- Toast Notifications
-- Pagination
-- Sorting
-- Export to PDF/Excel
-- Dark Mode
-
----
-
 ## 📱 Responsive Design
 
 The application is fully responsive and optimized for:
